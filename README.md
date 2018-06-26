@@ -1,6 +1,6 @@
 # project_euler
 
-problems to practice computational thinking and algorithms
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
-visit projecteuler.net for more information.  
+visit https://projecteuler.net for more information.  
 
